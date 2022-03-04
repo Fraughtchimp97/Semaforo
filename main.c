@@ -11,5 +11,8 @@ int main(void)
 
 	//kaster se la come
 
+	//kaster se la re come
+	//dsjabcdkebrwe
+
 	return 0;
 }
